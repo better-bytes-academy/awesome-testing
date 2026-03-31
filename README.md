@@ -22,6 +22,13 @@ Dự án này được tạo ra với mục tiêu giúp QA Engineers — từ fr
 - [Mobile Testing Tools](tools/mobile-testing-tools.md) — Công cụ kiểm thử di động
 - [AI Testing Tools](tools/ai-testing-tools.md) — Công cụ kiểm thử ứng dụng AI
 
+### AI
+#### Prompts
+- [Manual testing - Test Planning](prompts/manual-testing/test-planning/test-planning.md)
+- [Manual tesing - Test Strategy](prompts/manual-testing/test-planning/test-strategy.md)
+- [Manual testing - Risk Analysis](prompts/manual-testing/test-planning/risk-analysis.md)
+
+
 ### 💼 Phỏng vấn Testing
 - [Manual Testing](interview/manual-testing.md) — Câu hỏi phỏng vấn Manual Testing
 - [Automation Testing](interview/automation-testing.md) — Câu hỏi phỏng vấn Automation Testing
