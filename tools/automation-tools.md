@@ -78,7 +78,7 @@
 |---------|-------|------|
 | **Faker** | Thư viện tạo dữ liệu giả (nhiều ngôn ngữ) | [github.com/faker-js/faker](https://github.com/faker-js/faker) |
 | **Synth** | Open-source test data generator | [getsynth.com](https://www.getsynth.com/) |
-| **MockHero** | REST API tạo synthetic test data | [mockhero.dev](https://mockhero.dev/) |
+| **MockHero** | API và MCP server tạo synthetic test data cho AI agents | [mockhero.dev](https://mockhero.dev/) |
 | **Factory Bot** | Ruby library tạo test data | [github.com/thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) |
 
 ---
