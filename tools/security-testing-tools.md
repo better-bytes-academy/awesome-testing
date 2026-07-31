@@ -18,6 +18,7 @@
 
 | Công cụ | Giá | Mô tả | Link |
 |---------|-----|-------|------|
+**Dark-Moon** | Free (GPL-3.0) | Nền tảng kiểm thử xâm nhập tự động bằng AI, self-hosted qua docker-compose, máy chủ MCP, hỗ trợ Web/API/Active Directory/Kubernetes, tích hợp hơn 50 công cụ (Nuclei, NetExec, BloodHound, sqlmap) | [github.com/ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
 | **OWASP ZAP** | Free | Intercepting proxy, security scanning | [zaproxy.org](https://www.zaproxy.org/) |
 | **Burp Suite** | Free/Paid | Web security testing platform | [portswigger.net](https://portswigger.net/burp) |
 | **Nikto** | Free | Web server scanner | [github.com/sullo/nikto](https://github.com/sullo/nikto) |
