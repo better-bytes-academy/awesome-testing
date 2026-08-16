@@ -24,6 +24,7 @@
 | **mabl** | Intelligent test automation với auto-healing | [mabl.com](https://www.mabl.com/) |
 | **Functionize** | AI-driven E2E testing platform | [functionize.com](https://www.functionize.com/) |
 | **Octomind** | AI-powered test case discovery & maintenance | [octomind.dev](https://octomind.dev/) |
+| **Agent QA** | Tác nhân QA tự cải thiện cho kiểm thử web/mobile bằng ngôn ngữ tự nhiên, có bộ nhớ thực thi và thích nghi khi UI thay đổi | [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa) |
 | **Keploy** | Auto-generate test cases từ real traffic | [keploy.io](https://keploy.io/) |
 | **QA Wolf** | AI-assisted browser test creation | [qawolf.com](https://www.qawolf.com/) |
 | **Polarity** | AI QA Engineer cho E2E, API, UI testing | [polarity.so](https://www.polarity.so/) |
